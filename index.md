@@ -24,8 +24,6 @@
 > *When I first took AP Computer Science*
 - Learned how to make things pop up on my screen and I fell in love
 
-```
+## For Fun
 
-```
-
-
+> Test test

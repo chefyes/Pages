@@ -1,5 +1,5 @@
 # Overview of the Chef
-> ### About the chef
+> ### **About the chef**
 > I like to indoor climb, spike volleyballs, and spin around on the floor! I also liked documenting my life through vlogs :)
 >    
 > [Youtube](https://www.youtube.com/channel/UCtzVoslFKophByUsSopM-oA 'my vlogs')  
@@ -24,6 +24,12 @@
 > *When I first took AP Computer Science*
 - Learned how to make things pop up on my screen and I fell in love
 
-## For Fun
 
-> Test test
+- Choose 
+  - An
+    - Option  
+
+## I'm excited for the school year!
+- [x] Tasklist test
+- [ ] Option 2 
+- [ ] Option 3

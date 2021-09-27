@@ -24,10 +24,10 @@
 > *When I first took AP Computer Science*
 - Learned how to make things pop up on my screen and I fell in love
 
-
-- Choose 
-  - An
-    - Option  
+  4 
+  - is my
+    - favorite number
+      - so is 27  
 
 ## I'm excited for the school year!
 - [x] Tasklist test
